@@ -38,3 +38,7 @@ Le programme demande ensuite l'URL de la cible.
 ## Licence
 
 Ce projet est distribué sous licence MIT. Voir le fichier `LICENSE`.
+
+## Auteur
+
+Toukam Teguia Christ Vincent, étudiant en DUT Génie informatique à l'IUT de Douala.
