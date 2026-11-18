@@ -1,0 +1,5 @@
+include "/usr/share/nano/python.nanorc"
+include "/usr/share/nano/php.nanorc"
+set linenumbers
+set tabsize 4
+set tabstospaces
